@@ -1,14 +1,14 @@
 Package: ipkg
 Type: Package
-Title: Install GitHub packages from hub.fastgit.org
-Version: 1.0.0
+Title: Install R packages on Github from hub.fastgit.org
+Version: 1.0.1
 Authors@R: person("Xinyuan", "Chu", email = "chuxinyuan@outlook.com", role = c("aut", "cre"))
 Maintainer: Xinyuan Chu <chuxinyuan@outlook.com>
 Date: 2022-01-13 06:01:09 UTC
-Description: When you want to download an R package on Github, but you can't 
-    access Github, this function helps you download and install the package 
+Description: When you want to install an R package on GitHub, but you can't 
+    access GitHub, this function helps you download and install the package 
     from another website <https://hub.fastgit.org/>, which is in real-time sync 
-    with Github.
+    with GitHub.
 License: MIT + file LICENSE
 URL: https://gitlab.com/chuxinyuan/ipkg
 BugReports: https://gitlab.com/chuxinyuan/ipkg/issues
@@ -18,7 +18,7 @@ Imports:
     remotes
 RoxygenNote: 7.1.2
 Suggests: 
-    testthat (>= 2.1.0),
+    testthat (>= 3.0.0),
     knitr,
     rmarkdown
 VignetteBuilder: knitr

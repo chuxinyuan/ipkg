@@ -2,7 +2,7 @@
 % Please edit documentation in R/ig.R
 \name{ig}
 \alias{ig}
-\title{Install GitHub packages from hub.fastgit.org}
+\title{Install R packages on Github from hub.fastgit.org}
 \usage{
 ig(x)
 }
@@ -10,9 +10,9 @@ ig(x)
 \item{x}{Repository address in the format username/repo.}
 }
 \description{
-When you want to download an R package on Github, but you can't access Github,
+When you want to install an R package on GitHub, but you can't access GitHub,
 this function helps you download and install the package from another website,
-which is in real-time sync with Github.
+which is in real-time sync with GitHub.
 }
 \examples{
 

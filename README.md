@@ -3,10 +3,10 @@
 
 # Introduce
 
-When you want to download an R package on Github, but you can’t access
-Github, this function helps you download and install the package from
+When you want to install an R package on GitHub, but you can’t access
+GitHub, this function helps you download and install the package from
 another website <https://hub.fastgit.org/>, which is in real-time sync
-with Github.
+with GitHub.
 
 ## Installation
 
@@ -17,7 +17,7 @@ remotes::install_git("https://gitlab.com/chuxinyuan/ipkg.git")
 
 ## Usage
 
-Install the development version of the R package on Github.
+Install the development version of the R package on GitHub.
 
 ``` r
 ig("yihui/xfun")
