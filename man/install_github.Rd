@@ -17,6 +17,6 @@ which is in real-time sync with GitHub.
 \examples{
 
 # Example
-install_github("yihui/xfun")
+# install_github("yihui/xfun")
 
 }

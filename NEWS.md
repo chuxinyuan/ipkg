@@ -1,4 +1,14 @@
 
+# ipkg 1.0.3
+
+### Fix Bug
+
+* Add trailing slashes
+* Delete 'VignetteBuilder' field
+* Delete test file
+* Change title field in title case
+* Do not execute the example code
+
 # ipkg 1.0.2
 
 ### Major change
