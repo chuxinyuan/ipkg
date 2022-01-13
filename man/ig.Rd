@@ -2,7 +2,7 @@
 % Please edit documentation in R/ig.R
 \name{ig}
 \alias{ig}
-\title{Install R packages on Github from hub.fastgit.org}
+\title{Install R packages on GitHub from hub.fastgit.org}
 \usage{
 ig(x)
 }

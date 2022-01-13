@@ -1,6 +1,6 @@
 Package: ipkg
 Type: Package
-Title: Install R packages on Github from hub.fastgit.org
+Title: Install R packages on GitHub from hub.fastgit.org
 Version: 1.0.1
 Authors@R: person("Xinyuan", "Chu", email = "chuxinyuan@outlook.com", role = c("aut", "cre"))
 Maintainer: Xinyuan Chu <chuxinyuan@outlook.com>

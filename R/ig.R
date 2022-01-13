@@ -1,4 +1,4 @@
-#' @title Install R packages on Github from hub.fastgit.org
+#' @title Install R packages on GitHub from hub.fastgit.org
 #'
 #' @description
 #' When you want to install an R package on GitHub, but you can't access GitHub,
