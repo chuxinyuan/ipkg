@@ -17,10 +17,10 @@ remotes::install_git("https://gitlab.com/chuxinyuan/ipkg.git")
 
 ## Usage
 
-Install the development version of the R package on GitHub.
+Install the development version of the R package on GitHub. Take the xfun package as an example.
 
 ``` r
-ig("yihui/xfun")
+install_github("yihui/xfun")
 ```
 
 ## License

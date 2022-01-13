@@ -1,4 +1,10 @@
 
+# ipkg 1.0.2
+
+### Major change
+
+* Change the function name ig to install_github.
+
 # ipkg 1.0.1
 
 ### Fix Bug

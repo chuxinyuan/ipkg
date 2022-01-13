@@ -10,14 +10,14 @@
 #' @examples
 #'
 #' # Example
-#' ig("yihui/xfun")
+#' install_github("yihui/xfun")
 #'
 #' @export
 
 ################################################################################
 
 # Install GitHub packages from another repo
-ig = function(x) {
+install_github = function(x) {
   url = paste0("https://hub.fastgit.org/", x, ".git")
   remotes::install_git(url) 
 }
