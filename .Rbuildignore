@@ -1,2 +1,13 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^Meta$
+^docs$
+^_pkgdown\.yml$
+^pkgdown$
+^README\.Rmd$
+^README-.*\.png$
+^LICENSE\.md$
+^NEWS\.md$
+^\.gitlab$
+.gitignore
+^doc$
