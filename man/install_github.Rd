@@ -4,10 +4,10 @@
 \alias{install_github}
 \title{Install R packages on GitHub from hub.fastgit.org}
 \usage{
-install_github(x)
+install_github(pkg)
 }
 \arguments{
-\item{x}{Repository address in the format username/repo.}
+\item{pkg}{Repository address in the format username/repo.}
 }
 \description{
 When you want to install an R package on GitHub, but you can't access GitHub,

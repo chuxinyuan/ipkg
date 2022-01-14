@@ -1,4 +1,14 @@
 
+# ipkg 1.0.4
+
+### Fix Bug
+
+* Change BugReports field value to ".../-/issues"
+
+### Major change
+
+* Change the parameters of install_github from x to pkg
+
 # ipkg 1.0.3
 
 ### Fix Bug
