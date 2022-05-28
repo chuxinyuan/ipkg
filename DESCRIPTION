@@ -1,10 +1,10 @@
 Package: ipkg
 Type: Package
-Title: Install R Packages on GitHub from Hub.fastgit.org
-Version: 1.0.4
+Title: Install R Packages on GitHub from Hub.fastgit.xyz
+Version: 1.0.5
 Authors@R: person("Xinyuan", "Chu", email = "chuxinyuan@outlook.com", role = c("aut", "cre"))
 Maintainer: Xinyuan Chu <chuxinyuan@outlook.com>
-Date: 2022-01-13 06:01:09 UTC
+Date: 2022-05-26 23:38:08 UTC
 Description: When you want to install an R package on GitHub, but you can't 
     access GitHub, this function helps you download and install the package 
     from another website <https://hub.fastgit.org/>, which is in real-time sync 

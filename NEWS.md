@@ -1,4 +1,10 @@
 
+# ipkg 1.0.5
+
+### Fix Bug
+
+* Change "https://hub.fastgit.org/" to "https://hub.fastgit.xyz/"
+
 # ipkg 1.0.4
 
 ### Fix Bug
