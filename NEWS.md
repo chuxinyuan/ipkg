@@ -1,4 +1,10 @@
 
+# ipkg 1.0.8
+
+### Fix Bug
+
+- Change title field in title case.
+
 # ipkg 1.0.7
 
 ### Major change
