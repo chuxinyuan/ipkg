@@ -1,14 +1,14 @@
 Package: ipkg
 Type: Package
-Title: Install R Packages on GitHub via the proxy site https://ghproxy.com
-Version: 1.0.6
+Title: Install R Packages or download file from GitHub via the proxy site https://ghproxy.com
+Version: 1.0.7
 Authors@R: person("Xinyuan", "Chu", email = "chuxinyuan@outlook.com", role = c("aut", "cre"))
 Maintainer: Xinyuan Chu <chuxinyuan@outlook.com>
-Date: 2023-09-08 23:37:23 UTC
-Description: When you want to install an R package on GitHub, but you can't 
-    access GitHub, this function helps you download and install the package 
-    on GitHub via the proxy website <https://ghproxy.com/>, which is in 
-    real-time sync with GitHub.
+Date: 2023-09-09 02:43:31 UTC
+Description: When you want to install R packages or download file from GitHub, 
+    but you can't access GitHub, this package helps you install R packages or 
+    download file from GitHub via the proxy website <https://ghproxy.com/>, 
+    which is in real-time sync with GitHub.
 License: MIT + file LICENSE
 URL: https://gitlab.com/chuxinyuan/ipkg
 BugReports: https://gitlab.com/chuxinyuan/ipkg/-/issues

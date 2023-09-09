@@ -25,6 +25,16 @@ Install the development version of the R package on GitHub. Take the 'xfun' pack
 install_github("yihui/xfun")
 ```
 
+Download file from GitHub via the proxy site https://ghproxy.com. for example:
+
+``` r
+download_file(
+ url = "https://github.com/hadley/mastering-shiny/raw/main/neiss/products.tsv",
+ destfile = "products.tsv",
+ quiet = TRUE
+)
+```
+
 ## License
 
 ecce is free and open source software, licensed under MIT + file

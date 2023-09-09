@@ -1,4 +1,10 @@
 
+# ipkg 1.0.7
+
+### Major change
+
+* Add a new function download_file(), which download file from GitHub via the proxy site https://ghproxy.com
+
 # ipkg 1.0.6
 
 ### Fix Bug
