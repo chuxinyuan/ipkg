@@ -1,4 +1,10 @@
 
+# ipkg 1.0.6
+
+### Fix Bug
+
+* Install R packages on GitHub via the proxy site "https://ghproxy.com/"
+
 # ipkg 1.0.5
 
 ### Fix Bug

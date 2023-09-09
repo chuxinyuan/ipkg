@@ -2,7 +2,7 @@
 % Please edit documentation in R/install_github.R
 \name{install_github}
 \alias{install_github}
-\title{Install R packages on GitHub from hub.fastgit.org}
+\title{Install R packages on GitHub via the proxy site https://ghproxy.com}
 \usage{
 install_github(pkg)
 }
@@ -11,8 +11,8 @@ install_github(pkg)
 }
 \description{
 When you want to install an R package on GitHub, but you can't access GitHub,
-this function helps you download and install the package from another website,
-which is in real-time sync with GitHub.
+this function helps you download and install the package on GitHub via the
+proxy website <https://ghproxy.com/>, which is in real-time sync with GitHub.
 }
 \examples{
 

@@ -1,9 +1,9 @@
-#' @title Install R packages on GitHub from hub.fastgit.org
+#' @title Install R packages on GitHub via the proxy site https://ghproxy.com
 #'
 #' @description
 #' When you want to install an R package on GitHub, but you can't access GitHub,
-#' this function helps you download and install the package from another website,
-#' which is in real-time sync with GitHub.
+#' this function helps you download and install the package on GitHub via the
+#' proxy website <https://ghproxy.com/>, which is in real-time sync with GitHub.
 #'
 #' @param pkg Repository address in the format username/repo.  
 #'
@@ -14,12 +14,12 @@
 #'
 #' @export
 
-################################################################################
+#------------------------------------------------------------------------------#
 
-# Install GitHub packages from another repo
+# Install GitHub packages via the proxy site https://ghproxy.com
 install_github = function(pkg) {
-  url = paste0("https://hub.fastgit.xyz/", pkg, ".git")
+  url = paste0("https://ghproxy.com/https://github.com/", pkg, ".git")
   remotes::install_git(url) 
 }
 
-################################################################################
+#------------------------------------------------------------------------------#
