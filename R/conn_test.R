@@ -22,7 +22,7 @@ conn_test = function(url) {
   tryCatch(
     {
       response = httr::GET(url)
-      if (status_code(response) == 200) {
+      if (httr::status_code(response) == 200) {
         result = "ok"
       } else {
         result = "no"
