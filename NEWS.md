@@ -1,4 +1,10 @@
 
+# ipkg 1.1.0
+
+### Major change
+
+* `download_file()` is enhanced to download file from non-Github sites.
+
 # ipkg 1.0.9
 
 ### Major change
