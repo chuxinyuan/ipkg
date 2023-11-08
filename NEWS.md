@@ -1,4 +1,10 @@
 
+# ipkg 1.1.1
+
+### Major change
+
+* The alternative proxy site is changed from <https://ghproxy.com/> to <https://mirror.ghproxy.com/>.
+
 # ipkg 1.1.0
 
 ### Major change
@@ -9,7 +15,7 @@
 
 ### Major change
 
-* Add a alternative proxy site https://gh-proxy.com/.
+* Add a alternative proxy site <https://gh-proxy.com/>.
 * Add a new function `conn_test()` tests whether the website is properly connected.
 
 # ipkg 1.0.8
