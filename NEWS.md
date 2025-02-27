@@ -1,4 +1,11 @@
 
+# ipkg 1.1.2
+
+### Major change
+
+* The alternative proxy site is changed from <https://mirror.ghproxy.com/> to <https://ghfast.top/>.
+* proxy website <https://gh-proxy.com/> changed from second to first.
+
 # ipkg 1.1.1
 
 ### Major change
