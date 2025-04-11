@@ -1,4 +1,10 @@
 
+# ipkg 1.1.3
+
+### Major change
+
+* Adjust repo from gitlab to github.
+
 # ipkg 1.1.2
 
 ### Major change

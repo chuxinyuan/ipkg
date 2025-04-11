@@ -11,8 +11,8 @@ is in real-time sync with GitHub.
 ## Installation
 
 ``` r
-# Install development version from GitLab
-remotes::install_gitlab("chuxinyuan/ipkg")
+# Install development version via GitHub
+remotes::install_github("chuxinyuan/ipkg")
 # Install from CRAN
 install.packages("ipkg")
 ```
